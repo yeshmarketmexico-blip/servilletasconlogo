@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://servilletasconlogo.com.mx/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://servilletasconlogo.com.mx/img/servilleta-fina-blanca-20x20-logo-bar-restaurante.jpg</image:loc>
+      <image:title>Servilleta fina blanca 20x20 personalizada con logo para restaurante y bar en México</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://servilletasconlogo.com.mx/img/servilleta-kraft-cafe-15x15-logo-cafeteria.jpg</image:loc>
+      <image:title>Servilleta kraft café ecológica personalizada con logo para cafetería artesanal México</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://servilletasconlogo.com.mx/img/servilleta-fina-25x25-logo-restaurante-formal.jpg</image:loc>
+      <image:title>Servilleta fina blanca 25x25 dinner personalizada con logo para restaurante formal y hotel México</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://servilletasconlogo.com.mx/img/servilleta-blanca-rectangular-25x15-logo-taqueria.jpg</image:loc>
+      <image:title>Servilleta blanca rectangular dispensador personalizada con logo para taquería México</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://servilletasconlogo.com.mx/img/servilleta-economica-blanca-15x15-logo-hamburguesia.jpg</image:loc>
+      <image:title>Servilleta económica blanca personalizada con logo para hamburguesería y bar México</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://servilletasconlogo.com.mx/img/servilleta-kraft-rectangular-25x15-logo-food-truck.jpg</image:loc>
+      <image:title>Servilleta kraft rectangular dispensador personalizada con logo para food truck México</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://servilletasconlogo.com.mx/img/servilleta-fina-blanca-15x15-logo-cafeteria-boutique.jpg</image:loc>
+      <image:title>Servilleta fina blanca 15x15 cóctel personalizada con logo para cafetería boutique México</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://servilletasconlogo.com.mx/portavasos-con-logo/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

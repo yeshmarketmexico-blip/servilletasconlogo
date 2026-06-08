@@ -1,6 +1,10 @@
 User-agent: *
 Allow: /
 
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
 User-agent: GPTBot
 Allow: /
 Allow: /llms.txt
@@ -11,8 +15,13 @@ Allow: /llms.txt
 
 User-agent: anthropic-ai
 Allow: /
+Allow: /llms.txt
 
 User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: Bingbot
 Allow: /
 
 Sitemap: https://servilletasconlogo.com.mx/sitemap.xml

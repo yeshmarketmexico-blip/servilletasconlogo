@@ -32,27 +32,25 @@
   --WA:#25D366;--r:8px;--rl:14px;
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth;overflow-x:hidden}
+html{scroll-behavior:smooth}
 body{font-family:'DM Sans',sans-serif;background:var(--cream);color:var(--ink);line-height:1.65;overflow-x:hidden}
 h1,h2,h3,h4{font-family:'Playfair Display',serif}
 h1{font-size:clamp(1.9rem,4.5vw,3.3rem);font-weight:700;line-height:1.1}
 h2{font-size:clamp(1.4rem,3vw,2.2rem);font-weight:600;line-height:1.2}
 
 /* NAV */
-.site-nav{background:var(--ink2);padding:0 max(12px,3vw);display:flex;align-items:center;justify-content:space-between;height:58px;position:sticky;top:0;z-index:300;border-bottom:1px solid rgba(255,255,255,0.06);overflow:hidden;gap:10px}
-.nav-logo{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:700;color:var(--gold-light);text-decoration:none;display:flex;align-items:center;gap:8px;flex-shrink:0}
+.site-nav{background:var(--ink2);padding:0 max(16px,4vw);display:flex;align-items:center;justify-content:space-between;height:58px;position:sticky;top:0;z-index:300;border-bottom:1px solid rgba(255,255,255,0.06)}
+.nav-logo{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:700;color:var(--gold-light);text-decoration:none;display:flex;align-items:center;gap:8px}
 .nav-logo-icon{width:26px;height:26px;background:var(--gold);border-radius:6px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
 .nav-logo span{color:rgba(255,255,255,0.38);font-weight:300}
-.site-tabs{display:flex;gap:4px;background:rgba(255,255,255,0.05);border-radius:7px;padding:4px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;max-width:calc(100vw - 120px);flex-shrink:1}
-.site-tabs::-webkit-scrollbar{display:none}
-.site-tab{padding:5px 12px;border-radius:5px;font-size:0.78rem;font-weight:500;color:rgba(255,255,255,0.55);text-decoration:none;transition:all .18s;white-space:nowrap;flex-shrink:0}
+.site-tabs{display:flex;gap:4px;background:rgba(255,255,255,0.05);border-radius:7px;padding:4px}
+.site-tab{padding:5px 14px;border-radius:5px;font-size:0.78rem;font-weight:500;color:rgba(255,255,255,0.55);text-decoration:none;transition:all .18s;white-space:nowrap}
 .site-tab.active{background:var(--gold);color:var(--ink);font-weight:700}
 .nav-links{display:flex;gap:18px;list-style:none;align-items:center}
 .nav-links a{color:rgba(255,255,255,0.5);text-decoration:none;font-size:0.77rem;font-weight:500;transition:color .2s}
 .nav-links a:hover{color:var(--gold-light)}
 .nav-cta{background:var(--WA);color:#fff!important;padding:5px 13px;border-radius:6px;font-weight:700!important;display:flex;align-items:center;gap:5px}
 @media(max-width:680px){.nav-links{display:none}.site-tabs{gap:2px}.site-tab{padding:5px 10px;font-size:0.72rem}}
-@media(max-width:480px){.site-nav{padding:0 10px;gap:8px}.nav-logo span{display:none}.site-tab{padding:4px 8px;font-size:0.7rem}}
 
 /* HERO — tono industrial oscuro */
 .hero{background:var(--dark);padding:clamp(44px,7vh,80px) max(16px,5vw) clamp(32px,4vh,56px);position:relative;overflow:hidden}
@@ -203,7 +201,7 @@ h2{font-size:clamp(1.4rem,3vw,2.2rem);font-weight:600;line-height:1.2}
 
 /* PRODUCTOS */
 .products-section{background:var(--white)}
-.products-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(280px,100%),1fr));gap:18px}
+.products-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:18px}
 .prod-card{background:var(--cream);border:1px solid var(--b);border-radius:var(--rl);overflow:hidden;transition:all .22s;cursor:pointer}
 .prod-card:hover{transform:translateY(-3px);box-shadow:var(--sh);border-color:var(--b2)}
 .prod-card.best{border-color:var(--gold);border-width:2px}
@@ -255,7 +253,7 @@ h2{font-size:clamp(1.4rem,3vw,2.2rem);font-weight:600;line-height:1.2}
 
 /* STEPS */
 .how-section{background:var(--white)}
-.steps-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(170px,100%),1fr));gap:0;position:relative}
+.steps-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:0;position:relative}
 .steps-row::before{content:'';position:absolute;top:33px;left:10%;right:10%;height:1px;background:var(--b2);z-index:0}
 .step-card{text-align:center;padding:0 16px;position:relative;z-index:1}
 .step-circ{width:66px;height:66px;border-radius:50%;background:var(--cream);border:2px solid var(--b2);display:flex;align-items:center;justify-content:center;margin:0 auto 15px;font-family:'Playfair Display',serif;font-size:1.2rem;font-weight:700;color:var(--teal2)}
@@ -266,7 +264,7 @@ h2{font-size:clamp(1.4rem,3vw,2.2rem);font-weight:600;line-height:1.2}
 
 /* USOS */
 .usos-section{background:var(--cream2)}
-.usos-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(150px,100%),1fr));gap:10px}
+.usos-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
 .uso-card{background:var(--white);border:1px solid var(--b);border-radius:var(--r);padding:15px 12px;text-align:center;transition:all .18s}
 .uso-card:hover{border-color:var(--gold);transform:translateY(-2px);box-shadow:var(--sh)}
 .uso-emoji{font-size:1.6rem;margin-bottom:6px;display:block}
@@ -275,7 +273,7 @@ h2{font-size:clamp(1.4rem,3vw,2.2rem);font-weight:600;line-height:1.2}
 
 /* TESTIMONIOS */
 .test-section{background:var(--dark2);padding:clamp(48px,6vw,80px) max(16px,5vw)}
-.test-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(230px,100%),1fr));gap:13px;margin-top:30px}
+.test-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:13px;margin-top:30px}
 .test-card{background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.08);border-radius:var(--rl);padding:17px}
 .test-stars{color:var(--gold-light);font-size:0.78rem;margin-bottom:9px;letter-spacing:2px}
 .test-text{font-size:0.8rem;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:12px;font-style:italic}
@@ -336,8 +334,8 @@ footer{background:var(--ink2);color:rgba(255,255,255,0.42);padding:28px max(16px
   .hero-desc{font-size:0.86rem;margin-bottom:16px}
   .hero-pills{gap:5px}
   .pill{font-size:0.7rem;padding:4px 9px}
-  .hero-btns{gap:8px;flex-direction:column}
-  .btn-main,.btn-wa{padding:10px 16px;font-size:0.82rem;width:100%;justify-content:center}
+  .hero-btns{gap:8px}
+  .btn-main,.btn-wa{padding:10px 16px;font-size:0.82rem}
   .hero-stats{gap:16px;margin-top:20px;padding-top:16px}
   .sn{font-size:1.25rem}
 
@@ -451,19 +449,8 @@ footer{background:var(--ink2);color:rgba(255,255,255,0.42);padding:28px max(16px
 }
 
 </style>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T386F227');</script>
-<!-- End Google Tag Manager -->
 </head>
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T386F227"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 <!-- FLOATING WA -->
 <a href="https://wa.me/525525897917" target="_blank" class="wa-float" aria-label="WhatsApp ServilletasconLogo">
