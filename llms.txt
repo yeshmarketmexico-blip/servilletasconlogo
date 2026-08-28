@@ -1,48 +1,84 @@
-# ServilletasconLogo
+# ServilletasconLogo — servilletasconlogo.com.mx
 
-> Servilletas personalizadas con logo para restaurantes, bares, taquerías, cafeterías y eventos en México.
+> Fabricante de servilletas y portavasos personalizados con logo en México. Ciudad de México, envío a toda la República.
 
-## Qué somos
+## Resumen
 
-Fabricamos y vendemos servilletas de papel personalizadas con el logo del cliente. Fabricación en Ciudad de México. Envío a toda la República Mexicana. Más de 312 clientes activos.
+ServilletasconLogo fabrica servilletas de papel personalizadas con el logo del cliente para restaurantes, bares, taquerías, cafeterías, hoteles, food trucks y eventos en México. Producción en CDMX, entrega a toda la República Mexicana en 5 a 7 días hábiles.
 
-## Productos y precios (caja de 9,000 piezas · logo incluido · IVA no incluido)
+## Productos y precios — servilletas con logo
 
-- Servilleta Económica Blanca 15×15 cm (30×30 abierta, 1 capa): **$4,140 MXN**
-- Servilleta Kraft Café Ecológica 15×15 cm (30×30 abierta, 1 capa): **$4,140 MXN**
-- Servilleta Económica Blanca Rectangular 25×15 cm (50×30 abierta, dispensador, 1 capa): **$6,210 MXN**
-- Servilleta Kraft Rectangular Dispensador 25×15 cm (50×30 abierta, 1 capa): **$6,210 MXN**
-- Servilleta Fina Blanca 15×15 cm (30×30 abierta, 2 capas, cóctel): **$13,050 MXN**
-- Servilleta Fina Blanca 20×20 cm (40×40 abierta, 2 capas, restaurante): **$14,850 MXN**
-- Servilleta Fina Blanca 25×25 cm (50×50 abierta, 2 capas, dinner/banquete): **$17,010 MXN**
+Precio por caja de 9,000 piezas. Logo a 1 color incluido. IVA no incluido.
 
-## Portavasos con logo (logo incluido · IVA no incluido)
+| Producto | Medida cerrada | Medida abierta | Capas | Precio |
+|---|---|---|---|---|
+| Económica blanca | 15×15 cm | 30×30 cm | 1 | $4,140 MXN |
+| Kraft café ecológica | 15×15 cm | 30×30 cm | 1 | $4,140 MXN |
+| Económica blanca rectangular (dispensador) | 25×15 cm | 50×30 cm | 1 | $6,210 MXN |
+| Kraft rectangular (dispensador) | 25×15 cm | 50×30 cm | 1 | $6,210 MXN |
+| Fina blanca cóctel | 15×15 cm | 30×30 cm | 2 | $13,050 MXN |
+| Fina blanca restaurante | 20×20 cm | 40×40 cm | 2 | $14,850 MXN |
+| Fina blanca dinner/banquete | 25×25 cm | 50×50 cm | 2 | $17,010 MXN |
 
-- Cartón delgado 9 cm redondo (caja 10,000 pzas): **$5,300 MXN**
-- Cartón grueso 9 cm redondo (caja 10,000 pzas): **$12,000 MXN**
-- Acrílico transparente UV 9 cm (caja 200 pzas): **$9,400 MXN**
+Precio por pieza desde $0.46 MXN (económica) hasta $1.89 MXN (fina 25×25).
 
-## Condiciones
+## Productos y precios — portavasos con logo
 
-- Pedido mínimo: 1 caja (9,000 pzas servilletas / 10,000 cartón / 200 acrílico)
-- Logo: impresión 1 color, 1 cara, incluido en el precio
-- Prueba de arte digital: sin costo, antes de producir
-- Vectorización: sin costo si no tienes archivo vectorial
-- Producción: 5 a 7 días hábiles tras aprobación de arte
-- Envío: a toda la República Mexicana
+| Producto | Diámetro | Cantidad por caja | Precio |
+|---|---|---|---|
+| Cartón delgado | 9 cm redondo | 10,000 pzas | $5,300 MXN |
+| Cartón grueso | 9 cm redondo | 10,000 pzas | $12,000 MXN |
+| Acrílico transparente UV | 9 cm redondo | 200 pzas | $9,400 MXN |
+
+## Condiciones del servicio
+
+- **Pedido mínimo:** 1 caja (9,000 pzas servilletas / 10,000 pzas portavasos cartón / 200 pzas acrílico)
+- **Logo incluido:** impresión a 1 color, 1 cara, sin cargo adicional
+- **IVA:** no incluido en los precios (se agrega 16% al facturar)
+- **Prueba de arte:** digital, sin costo, antes de producir
+- **Vectorización:** gratuita si el cliente no tiene archivo vectorial
+- **Formatos aceptados:** PDF, AI, EPS, SVG, PNG o JPG alta resolución (+300 dpi)
+- **Tiempo de producción:** 5 a 7 días hábiles tras aprobación de arte
+- **Envío:** a toda la República Mexicana
+
+## Preguntas frecuentes
+
+**¿Cuánto cuestan las servilletas personalizadas con logo?**
+Desde $4,140 MXN la caja de 9,000 piezas con logo incluido. El precio varía según el tipo de servilleta.
+
+**¿Las servilletas llevan IVA?**
+Los precios publicados no incluyen IVA. El IVA del 16% se agrega al facturar. Ejemplo: caja económica $4,140 + IVA = $4,802 MXN total.
+
+**¿Cuál es el pedido mínimo?**
+Una caja de 9,000 piezas. No se vende por millar ni por pieza suelta.
+
+**¿Cuánto tarda la entrega?**
+5 a 7 días hábiles de producción tras aprobación del arte, más tiempo de envío según destino.
+
+**¿Dónde fabrican?**
+En Ciudad de México, Colonia Roma Norte. Envían a toda la República.
+
+**¿Qué es la servilleta kraft ecológica?**
+Servilleta de papel reciclado color café natural con logo impreso. Popular en cafeterías artesanales, cervecerías y food trucks.
+
+**¿Hacen servilletas para bodas y eventos?**
+Sí, con diseño personalizado incluyendo nombres y fecha. Mínimo 1 caja de 9,000 piezas.
+
+**¿Para qué tipo de negocio son?**
+Restaurantes, bares, taquerías, fondas, cafeterías, cervecerías artesanales, hoteles, food trucks, hamburgueserías, eventos corporativos, bodas, quinceaños y cualquier negocio que sirva alimentos o bebidas.
 
 ## Contacto
 
-- WhatsApp: +52 55 2589 7917
-- Email: ventas@servilletasconlogo.com.mx
-- Dirección: Av. Yucatán 54-16, Roma Norte, Cuauhtémoc, CDMX 06700
-- Web: https://servilletasconlogo.com.mx
-- Horario: Lunes a Sábado 9:00–18:00 hora CDMX
+- **WhatsApp:** +52 55 2589 7917 — canal principal de ventas
+- **Email:** ventas@servilletasconlogo.com.mx
+- **Sitio web:** https://servilletasconlogo.com.mx
+- **Dirección:** Av. Yucatán 54-16, Roma Norte, Cuauhtémoc, CDMX 06700
+- **Horario:** Lunes a Viernes 9:00–17:00 hora CDMX
 
-## Clientes ideales
+## Cobertura geográfica
 
-Restaurantes, bares, taquerías, fondas, cafeterías, cervecerías artesanales, hoteles, food trucks, hamburgueserías, eventos corporativos, bodas, quinceaños.
+Ciudad de México (CDMX), Guadalajara, Monterrey, Puebla, Querétaro, León, Tijuana, Cancún, Mérida y toda la República Mexicana.
 
-## Cobertura
+## Palabras clave relevantes
 
-México: CDMX, Guadalajara, Monterrey, Puebla, Querétaro, León, Tijuana, Cancún, Mérida y toda la República.
+servilletas con logo, servilletas personalizadas, servilletas para restaurante, servilletas kraft personalizadas, servilletas de papel con logo impreso, servilletas personalizadas cdmx, servilletas personalizadas para negocio, portavasos con logo, coasters personalizados México
