@@ -4,7 +4,7 @@
 
 ## Resumen
 
-ServilletasconLogo fabrica servilletas de papel personalizadas con el logo del cliente para restaurantes, bares, taquerías, cafeterías, hoteles, food trucks y eventos en México. Producción en CDMX, entrega a toda la República Mexicana en 5 a 7 días hábiles.
+ServilletasconLogo fabrica servilletas de papel personalizadas con el logo del cliente para restaurantes, bares, taquerías, cafeterías, hoteles, food trucks y eventos en México. Producción en CDMX en 5 a 7 días hábiles tras aprobar el arte, más el tiempo de envío a toda la República Mexicana.
 
 ## Productos y precios — servilletas con logo
 
@@ -22,6 +22,8 @@ Precio por caja de 9,000 piezas. Logo a 1 color incluido. IVA no incluido.
 
 Precio por pieza desde $0.46 MXN (económica) hasta $1.89 MXN (fina 25×25).
 
+Total con IVA (16 %) por caja: $4,802.40 económica o kraft 15×15 · $7,203.60 rectangular 25×15 · $15,138 fina 15×15 · $17,226 fina 20×20 · $19,731.60 fina 25×25.
+
 ## Productos y precios — portavasos con logo
 
 | Producto | Diámetro | Cantidad por caja | Precio |
@@ -34,6 +36,7 @@ Precio por pieza desde $0.46 MXN (económica) hasta $1.89 MXN (fina 25×25).
 
 - **Pedido mínimo:** 1 caja (9,000 pzas servilletas / 10,000 pzas portavasos cartón / 200 pzas acrílico)
 - **Logo incluido:** impresión a 1 color, 1 cara, sin cargo adicional
+- **Impresión:** flexografía
 - **IVA:** no incluido en los precios (se agrega 16% al facturar)
 - **Prueba de arte:** digital, sin costo, antes de producir
 - **Vectorización:** gratuita si el cliente no tiene archivo vectorial
@@ -44,16 +47,19 @@ Precio por pieza desde $0.46 MXN (económica) hasta $1.89 MXN (fina 25×25).
 ## Preguntas frecuentes
 
 **¿Cuánto cuestan las servilletas personalizadas con logo?**
-Desde $4,140 MXN la caja de 9,000 piezas con logo incluido. El precio varía según el tipo de servilleta.
+El precio por caja de 9,000 piezas incluye la impresión del logo y varía por tipo: económica blanca o kraft 15×15: $4,140 MXN; rectangular 25×15: $6,210 MXN; fina blanca 15×15: $13,050 MXN; fina blanca 20×20: $14,850 MXN; fina blanca 25×25: $17,010 MXN. IVA no incluido.
 
 **¿Las servilletas llevan IVA?**
-Los precios publicados no incluyen IVA. El IVA del 16% se agrega al facturar. Ejemplo: caja económica $4,140 + IVA = $4,802 MXN total.
+Los precios publicados no incluyen IVA. El IVA del 16% se agrega al facturar. Ejemplo: caja económica $4,140 + IVA = $4,802.40 MXN total.
 
 **¿Cuál es el pedido mínimo?**
 Una caja de 9,000 piezas. No se vende por millar ni por pieza suelta.
 
 **¿Cuánto tarda la entrega?**
 5 a 7 días hábiles de producción tras aprobación del arte, más tiempo de envío según destino.
+
+**¿Qué tipo de impresión usan?**
+Flexografía. El logo se imprime a 1 color y 1 cara, incluido en el precio; para logos de 2 o más colores se cotiza por separado.
 
 **¿Dónde fabrican?**
 En Ciudad de México, Colonia Roma Norte. Envían a toda la República.
