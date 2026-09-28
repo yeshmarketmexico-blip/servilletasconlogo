@@ -3,7 +3,7 @@
 ## Estructura
 ```
 /index.html                          → servilletasconlogo.com.mx/
-/portavasos-con-logo/index.html      → servilletasconlogo.com.mx/portavasos-con-logo/
+/404.html                            → página "no encontrada" (Cloudflare/GitHub Pages la sirven con código 404)
 /sitemap.xml
 /robots.txt
 /CNAME
@@ -26,4 +26,4 @@ Agregar registro A apuntando a GitHub Pages:
 ## Google Search Console
 1. Agregar propiedad: servilletasconlogo.com.mx
 2. Subir sitemap.xml
-3. Solicitar indexación de / y /portavasos-con-logo/
+3. Solicitar indexación de /

@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://servilletasconlogo.com.mx/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -34,11 +34,5 @@
       <image:loc>https://servilletasconlogo.com.mx/img/servilleta-fina-blanca-15x15-logo-cafeteria-boutique.jpg</image:loc>
       <image:title>Servilleta fina blanca 15x15 cóctel personalizada con logo para cafetería boutique México</image:title>
     </image:image>
-  </url>
-  <url>
-    <loc>https://servilletasconlogo.com.mx/portavasos-con-logo/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
