@@ -1,0 +1,42 @@
+{
+  "name": "ServilletasconLogo",
+  "domain": "servilletasconlogo.com.mx",
+  "canonical": "https://servilletasconlogo.com.mx/",
+  "gsc_property": "sc-domain:servilletasconlogo.com.mx",
+  "hosting": "github-pages",
+  "deploy_dir": "/",
+  "tracking": {
+    "gtm": "GTM-T386F227",
+    "ga4_measurement_id": "G-M08QXP5JLE",
+    "ga4_property_id": "562300219",
+    "ga4_stream_id": "16266342804",
+    "clarity": "z82kurtlhq"
+  },
+  "market": {
+    "country": "Mexico",
+    "language": "Spanish"
+  },
+  "business": "YESH MARKET (CDMX)",
+  "product": "Servilletas de papel personalizadas con logo, por caja de 9,000 piezas (desde $4,140 MXN), producción en CDMX en 5–7 días",
+  "audience": [
+    "restaurantes",
+    "bares",
+    "taquerías",
+    "cafeterías",
+    "hoteles",
+    "food trucks",
+    "organizadores de eventos"
+  ],
+  "primary_keywords": [
+    "servilletas con logo",
+    "servilletas personalizadas",
+    "servilletas personalizadas con logo",
+    "servilletas con logo para restaurante",
+    "servilletas impresas",
+    "servilletas personalizadas precio",
+    "servilletas kraft con logo",
+    "servilletas para taquería con logo"
+  ],
+  "conversion": "contacto por WhatsApp; precios publicados por caja",
+  "pages": "index.html (landing única) y 404.html; GitHub Pages con CNAME"
+}
