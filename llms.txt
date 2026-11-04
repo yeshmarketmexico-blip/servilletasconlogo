@@ -14,12 +14,12 @@ Precio por caja de 9,000 piezas. Logo a 1 color incluido. IVA no incluido.
 |---|---|---|---|---|---|
 | Económica blanca (la más pedida) | 12×12 cm | 1 | $4,140 MXN | $0.46 | $460 |
 | Kraft café | 12×12 cm | 1 | $4,140 MXN | $0.46 | $460 |
-| Blanca rectangular (dispensador) | 25×15 cm (50×30 cm abierta) | 1 | $6,210 MXN | $0.69 | $690 |
-| Kraft rectangular (dispensador) | 25×15 cm (50×30 cm abierta) | 1 | $6,210 MXN | $0.69 | $690 |
+| Blanca rectangular (dispensador) | 20×12 cm | 1 | $6,210 MXN | $0.69 | $690 |
+| Kraft rectangular (dispensador) | 20×12 cm | 1 | $6,210 MXN | $0.69 | $690 |
 
 Colores de papel: blanco y kraft café.
 
-Total con IVA (16 %) por caja: $4,802.40 económica blanca o kraft café 12×12 · $7,203.60 blanca o kraft rectangular 25×15.
+Total con IVA (16 %) por caja: $4,802.40 económica blanca o kraft café 12×12 · $7,203.60 blanca o kraft rectangular 20×12.
 
 ## Condiciones del servicio
 
@@ -37,7 +37,7 @@ Total con IVA (16 %) por caja: $4,802.40 económica blanca o kraft café 12×12 
 ## Preguntas frecuentes
 
 **¿Cuánto cuestan las servilletas personalizadas con logo?**
-El precio por caja de 9,000 piezas incluye la impresión del logo y varía por tipo: económica blanca o kraft café 12×12: $4,140 MXN ($0.46 por servilleta); blanca o kraft rectangular 25×15: $6,210 MXN ($0.69 por servilleta). IVA no incluido.
+El precio por caja de 9,000 piezas incluye la impresión del logo y varía por tipo: económica blanca o kraft café 12×12: $4,140 MXN ($0.46 por servilleta); blanca o kraft rectangular 20×12: $6,210 MXN ($0.69 por servilleta). IVA no incluido.
 
 **¿Las servilletas llevan IVA?**
 Los precios publicados no incluyen IVA. El IVA del 16% se agrega al facturar. Ejemplo: caja económica $4,140 + IVA = $4,802.40 MXN total.
