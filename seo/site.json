@@ -17,26 +17,43 @@
     "language": "Spanish"
   },
   "business": "YESH MARKET (CDMX)",
-  "product": "Servilletas de papel personalizadas con logo, por caja de 9,000 piezas (desde $4,140 MXN), producción en CDMX en 5–7 días",
+  "product": "Servilletas de papel personalizadas con logo, por caja de 9,000 piezas (desde $4,140 MXN + IVA, $0.46 c/u); primer pedido en 10 a 12 días hábiles, recompras en 5 a 7",
   "audience": [
     "restaurantes",
-    "bares",
     "taquerías",
     "cafeterías",
+    "heladerías",
+    "bares",
     "hoteles",
     "food trucks",
-    "organizadores de eventos"
+    "eventos corporativos"
   ],
   "primary_keywords": [
-    "servilletas con logo",
     "servilletas personalizadas",
-    "servilletas personalizadas con logo",
-    "servilletas con logo para restaurante",
-    "servilletas impresas",
-    "servilletas personalizadas precio",
+    "servilletas con logo",
+    "servilletas de papel personalizadas",
+    "servilletas personalizadas para negocio",
+    "servilletas personalizadas para restaurante",
+    "servilletas impresas con logo",
+    "servilletas personalizadas cdmx",
+    "servilletas impresas personalizadas precios",
     "servilletas kraft con logo",
-    "servilletas para taquería con logo"
+    "servilletas con logotipo"
   ],
   "conversion": "contacto por WhatsApp; precios publicados por caja",
-  "pages": "index.html (landing única) y 404.html; GitHub Pages con CNAME"
+  "pages": "index.html (landing única) y 404.html; GitHub Pages con CNAME",
+  "secondary_keywords": [
+    "servilletas con logo impreso",
+    "servilletas para restaurante personalizadas",
+    "servilletas para taquería con logo",
+    "servilletas impresas cdmx",
+    "servilletas de papel con logotipo",
+    "servilletas con tu logo"
+  ],
+  "avoid_keywords": [
+    "servilletas de tela / húmedas / porta servilletas (otro producto)",
+    "guatemala, panamá (otro país)",
+    "servilletas para boda, bautizo o 15 años (eventos chicos; el mínimo es 1 caja de 9,000)"
+  ],
+  "keywords_source": "Comité 2026-11-04: autocompletado de Google MX, Google Trends y Search Console; revisado 2026-11-05"
 }
